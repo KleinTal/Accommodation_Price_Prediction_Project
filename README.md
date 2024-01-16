@@ -58,4 +58,4 @@ This project involves building a predictive model to determine whether rental ac
 
 ## Contact
 
-For any inquiries or assistance, contact [Your Name] at [your.email@example.com].
+For any inquiries or assistance, contact Tal Klein at kleintal7@example.com.
