@@ -3,8 +3,7 @@
 ## Table of Contents
 1. [Overview](#overview)
 2. [Files](#files)
-3. [Mission Steps](#mission-steps)
-4. [Instructions](#instructions)
+3. [Project Steps](#Project-steps)
 5. [Dependencies](#dependencies)
 6. [Contact](#contact)
 
